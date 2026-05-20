@@ -52,11 +52,6 @@ const App = () => {
               <p className='text-blue-950 text-lg cursor-pointer hover:underline'>Already Member?</p>
             </div>
 
-            {/* checking */}
-            <div className='text-center p-7'>
-              <p className='text-blue-950 text-lg cursor-pointer hover:underline'>Already Member?</p>
-            </div>
-
           </form>
         </div>
         
