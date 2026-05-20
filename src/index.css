@@ -1,0 +1,11 @@
+/* custom-css */
+.garamond-font{
+    font-family: "Garamond";
+}
+.firaSans-font{
+    font-family: "Fira Sans";
+}
+
+
+/* import-statements */
+@import "tailwindcss";
